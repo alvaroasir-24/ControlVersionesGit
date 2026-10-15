@@ -1,5 +1,5 @@
 # ControlVersionesGit
-![Devops](img/Devops.GIF)
+![Devops](img/devops.GIF)
 ## Índice
 [1.- Introducción](introduccion.md)
 
@@ -16,4 +16,5 @@
 [7.- Autores](autores.md)
 
 ## Autores
-* **Nombre del Autor** - *Desarrollo y documentación* - [Óscar](https://github.com/olv200617-ui)
+* **Álvaro Martín** - *Jefe de Equipo* - [Álvaro](https://github.com/alvaroasir-24)
+* **Óscar Lavado** - *Desarrollo y documentación* - [Óscar](https://github.com/olv200617-ui)
