@@ -15,4 +15,4 @@
 [7.- Autores](autores.md)
 
 ## Autores
-* **Nombre del Autor** - *Desarrollo y documentación* - [@usuario](https://github.com/olv200617-ui)
+* **Nombre del Autor** - *Desarrollo y documentación* - [Óscar](https://github.com/olv200617-ui)
