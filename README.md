@@ -1,4 +1,5 @@
 # ControlVersionesGit
+![Devops](img/Devops.GIF)
 ## Índice
 [1.- Introducción](introduccion.md)
 
