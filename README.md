@@ -13,3 +13,6 @@
 [6.- Referencias](referencias.md)
 
 [7.- Autores](autores.md)
+
+## Autores
+* **Nombre del Autor** - *Desarrollo y documentación* - [@usuario](https://github.com/olv200617-ui)
