@@ -14,7 +14,3 @@
 [6.- Referencias](referencias.md)
 
 [7.- Autores](autores.md)
-
-## Autores
-* **Álvaro Martín** - *Jefe de Equipo* - [Álvaro](https://github.com/alvaroasir-24)
-* **Óscar Lavado** - *Desarrollo y documentación* - [Óscar](https://github.com/olv200617-ui)
