@@ -1,6 +1,7 @@
 # ControlVersionesGit
+![Devops](img/devops.GIF)
 ## Índice
-[1.- Introducción](introducción.md)
+[1.- Introducción](introduccion.md)
 
 [2.- Sistemas de control de versiones: Git](git.md)
 
@@ -13,6 +14,3 @@
 [6.- Referencias](referencias.md)
 
 [7.- Autores](autores.md)
-
-## Autores
-* **Nombre del Autor** - *Desarrollo y documentación* - [Óscar](https://github.com/olv200617-ui)
