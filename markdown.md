@@ -1,0 +1,2 @@
+## 3.- Lenguaje de marcas: Markdown
+Markdown es un lenguaje de marcado ligero creado con el objetivo de escribir texto con formato fácil de leer y redactar en cualquier editor plano, transformándose de forma nativa a HTML válido. Es el formato preferido en GitHub para la elaboración de manuales, notas de versiones y archivos de bienvenida (`README.md`), permitiendo estructurar títulos, listas, tablas y bloques de código de manera intuitiva.
