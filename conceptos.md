@@ -1,0 +1,2 @@
+## 5.- Conceptos básicos Git/GitHub
+El flujo de trabajo habitual se articula en torno a comandos y acciones esenciales: inicializar un proyecto (`git init`) o duplicarlo (`git clone`), añadir archivos modificados al área de preparación (`git add`), guardar una instantánea del estado actual (`git commit`) y sincronizar los cambios con la nube (`git push` y `git pull`). En entornos colaborativos, las ramas (`branches`) y las solicitudes de extracción (*Pull Requests*) permiten proponer y validar cambios antes de integrarlos a la rama principal.

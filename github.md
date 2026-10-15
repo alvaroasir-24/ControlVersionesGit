@@ -1,0 +1,2 @@
+## 4.- Repositorio: GitHub
+GitHub es una plataforma de alojamiento basada en la nube que utiliza Git para la gestión y colaboración de proyectos de software. Además del control de versiones, ofrece herramientas para la revisión de código (*Pull Requests*), automatización e integración continua (*GitHub Actions*), gestión de tareas e incidencias (*Issues* y *Projects*), y despliegue de documentación estática (*GitHub Pages*).
