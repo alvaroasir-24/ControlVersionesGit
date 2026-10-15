@@ -1,0 +1,2 @@
+## 2.- Sistemas de control de versiones: Git
+Git es un sistema de control de versiones distribuido diseñado por Linus Torvalds, que permite registrar los cambios realizados en el código fuente a lo largo del tiempo. A diferencia de los sistemas centralizados, cada desarrollador cuenta con una copia completa del historial en local, lo que agiliza el trabajo sin conexión, facilita la creación de ramas independientes y minimiza el riesgo de pérdida de información.
