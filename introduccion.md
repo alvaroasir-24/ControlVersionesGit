@@ -1,1 +1,2 @@
-
+## 1.- Introducción
+En el desarrollo de software y la administración de sistemas modernos, la trazabilidad, la colaboración en equipo y la documentación clara son pilares fundamentales para garantizar la calidad del código. Este documento ofrece una guía práctica e introductoria sobre el uso combinado de Git, el lenguaje de marcado Markdown y la plataforma GitHub como flujo de trabajo estándar en la industria.
